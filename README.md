@@ -28,7 +28,7 @@ SaaS products and data-intensive backend systems.
 
 ### 🌍 Location & languages
 - Maribor, Slovenia
-- English — Intermediate
+- English — Upper-Intermediate
 - Slovenian — Basic (conversational)
 - Russian / Ukrainian — Native
 
